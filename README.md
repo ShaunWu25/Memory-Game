@@ -10,7 +10,7 @@
 
 ## Instructions
 
-The memory game project is part of Udacity Front End Developer Nonodegree Program.
+Memory game project is part of Udacity Front End Developer Nonodegree Program.
 This project utilises HTML, CSS, Javascript to build a interactive browser game.
 
 To get started, download the folder, unzip it, load the index.html file(ctrl+o)in your browser
